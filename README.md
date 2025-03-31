@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AbishekPalaniS  
+# 👋 Hi, I’m @AbishekPalani S  
 - 👀 Passionate about exploring new technologies and building innovative solutions.  
 - 👨🏻‍🎓 I'm a second-year college student.  
 
