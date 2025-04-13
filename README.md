@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AbishekPalani S  
 - 👀 Passionate about exploring new technologies and building innovative solutions.  
-- 👨🏻‍🎓 I'm a Final-year college student.  
+- 👨🏻‍🎓 I'm a Third-year college student.  
 
 ## 📈 Languages I Know:  
 - ✅ Python 🐍  
