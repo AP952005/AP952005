@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AbishekPalani S  
 - 👀 Passionate about exploring new technologies and building innovative solutions.  
-- 👨🏻‍🎓 I'm a Third-year college student.  
+- 👨🏻‍🎓 I'm a Final-year college student.  
 
 ## 📈 Languages I Know:  
 - ✅ Python 🐍  
@@ -12,6 +12,7 @@
 - ☑️ **Web Development** 🌐  
 - ☑️ **Blockchain** 🪙  
 - ☑️ **App Development** 📱  
+- ☑️ **Cyber Security** 🌐
 
 ## 💡 Looking to Collaborate On:  
 🚀 Exciting projects in AI, blockchain, web, or app development!  
