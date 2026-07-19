@@ -1,11 +1,12 @@
 # 👋 Hi, I’m @AbishekPalani S  
 - 👀 Passionate about exploring new technologies and building innovative solutions.  
-- 👨🏻‍🎓 I'm a Final-year college student.  
+- 👨🏻‍🎓 Currently working in Unisys as a Associate Engineer.  
 
 ## 📈 Languages I Know:  
 - ✅ Python 🐍  
 - ✅ C 💻   
-- ✅ Java 
+- ✅ Java
+- ✅ C#
 
 ## 🪄 Interested Domains:  
 - ☑️ **Artificial Intelligence [AI]** 🤖  
@@ -13,6 +14,7 @@
 - ☑️ **Blockchain** 🪙  
 - ☑️ **App Development** 📱  
 - ☑️ **Cyber Security** 🌐
+- ☑️ **.NET Development** 🌐
 
 ## 💡 Looking to Collaborate On:  
 🚀 Exciting projects in AI, blockchain, web, or app development!  
