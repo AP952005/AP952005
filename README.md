@@ -1,33 +1,93 @@
 <div align="center">
 
-<!-- TOP CYBERPUNK GRADIENT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24,31&height=220&section=header&text=ABISHEK%20PALANI%20SIVASHANMUGAM&fontSize=34&fontAlignY=38&fontColor=ffffff&desc=%E2%9A%A1%20AI%20Systems%20%7C%20Post-Quantum%20Cryptography%20%7C%20Cyber%20Defense%20Engineer%20%E2%9A%A1&descFontSize=15&descAlignY=58&descAlign=50" width="100%" />
+<!-- ======================================================== -->
+<!-- 🛸 HERO HEADER WITH GLOWING CYBER EFFECT                 -->
+<!-- ======================================================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24,31&height=240&section=header&text=ABISHEK%20PALANI%20SIVASHANMUGAM&fontSize=34&fontAlignY=36&fontColor=ffffff&desc=%E2%9A%A1%20AI%20Systems%20%7C%20Post-Quantum%20Cryptography%20%7C%20Cyber%20Defense%20Engineer%20%E2%9A%A1&descFontSize=15&descAlignY=58&descAlign=50" width="100%" />
 
 <br/>
 
-<!-- DYNAMIC TERMINAL TYPING BAR -->
+<!-- ======================================================== -->
+<!-- 🪪 EXECUTIVE ENGINEER IDENTITY BADGE (PHOTO + TELEMETRY) -->
+<!-- ======================================================== -->
+<table align="center" width="100%" style="background-color: #0b0f19; border: 1px solid #1e293b; border-radius: 16px;">
+  <tr>
+    <!-- PHOTO COLUMN -->
+    <td width="30%" align="center" valign="middle" style="padding: 24px;">
+      <a href="https://github.com/AP952005">
+        <img src="./assets/avatar.jpg" alt="Abishek Palani" width="190" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 35px rgba(0, 240, 255, 0.45); object-fit: cover;" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-ACTIVE%20RESEARCHER-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status" />
+    </td>
+
+    <!-- IDENTITY & TELEMETRY COLUMN -->
+    <td width="70%" valign="middle" style="padding: 24px 28px;">
+      <h2>⚡ ABISHEK PALANI S.</h2>
+      <p>
+        <img src="https://img.shields.io/badge/ROLE-Associate%20Engineer%20%40%20Unisys-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" />
+        <img src="https://img.shields.io/badge/SECURITY-Post--Quantum%20%26%20Zero--Trust-007ACC?style=for-the-badge&logo=shield&logoColor=white" />
+      </p>
+      
+      <p align="left">
+        <a href="https://github.com/AP952005">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00F0FF&vCenter=true&repeat=true&width=560&height=36&lines=Architecting+Autonomous+AI+Agents+%26+MCP+Pipelines;NIST+Post-Quantum+Cryptography+(ML-KEM+%2F+Kyber);Autonomous+Behavioral+Anti-Ransomware+Frameworks;Full-Stack+Systems+Engineering+%40+Unisys" alt="Typing SVG" />
+        </a>
+      </p>
+
+      <table width="100%" style="font-size: 13.5px;">
+        <tr>
+          <td><b>🏛️ Enterprise:</b></td>
+          <td>Unisys India</td>
+          <td><b>📍 Location:</b></td>
+          <td>India (Global Hybrid)</td>
+        </tr>
+        <tr>
+          <td><b>🧠 AI Core:</b></td>
+          <td>MCP, Gemini 3.8, Llama-3 70B</td>
+          <td><b>🔐 Crypto Core:</b></td>
+          <td>Kyber-1024, NTRU, AES-256</td>
+        </tr>
+        <tr>
+          <td><b>🌐 Stacks:</b></td>
+          <td>Python, C#, Flutter, React, Next.js</td>
+          <td><b>⚡ Engine:</b></td>
+          <td>FastAPI, WebGL 3D, Supabase</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ======================================================== -->
+<!-- 🏆 GITHUB PROFILE TROPHIES                                -->
+<!-- ======================================================== -->
 <a href="https://github.com/AP952005">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=1100&color=00F0FF&center=true&vCenter=true&repeat=true&width=820&height=42&lines=%F0%9F%8F%9B%EF%B8%8F+Associate+Engineer+%40+Unisys;%F0%9F%A4%96+Architecting+Autonomous+AI+Agents+%26+MCP+Pipelines;%F0%9F%94%90+NIST+Post-Quantum+Cryptography+(ML-KEM+%2F+Kyber);%F0%9F%9B%A1%EF%B8%8F+Autonomous+Behavioral+Anti-Ransomware+Frameworks" alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AP952005&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" width="100%" />
 </a>
 
 <br/><br/>
 
-<!-- INTERACTIVE FLOATING BADGES -->
+<!-- ======================================================== -->
+<!-- 🔗 FLOATING INTERACTIVE CONNECT BUTTONS                  -->
+<!-- ======================================================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ap9505" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:abishekpalanisivashanmugam@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/AP952005?tab=repositories">
     <img src="https://img.shields.io/badge/Production%20Repos-15+-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/AP952005">
-    <img src="https://komarev.com/ghpvc/?username=AP952005&label=PROFILE+RADAR&color=00f0ff&style=for-the-badge" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=AP952005&label=RADAR+HITS&color=00f0ff&style=for-the-badge" alt="Visitors" />
   </a>
 </p>
 
@@ -35,20 +95,7 @@
 
 ---
 
-### ⚡ Executive Profile & System Matrix
-
-| Dimension | Architectural Focus & Technical Profile |
-| :--- | :--- |
-| **🏢 Professional Role** | **Associate Engineer @ Unisys** |
-| **🎯 Core Domains** | **Post-Quantum Cryptography (PQC)** • **Autonomous Threat Mitigation** • **Generative AI Systems** |
-| **🧠 AI & Agentic Stack** | **Model Context Protocol (MCP)** • **Gemini 3.8 Flash** • **Llama-3 70B** • **On-Device GGUF (llama.cpp)** |
-| **🔐 Cryptographic Primitives** | **NIST ML-KEM (CRYSTALS-Kyber)** • **NTRU Lattice** • **Attribute-Based Searchable Encryption (ABSE)** • **ECDSA** |
-| **💻 Engineering Frameworks** | **Python (FastAPI / Flask)** • **C# / .NET** • **Flutter (Dart)** • **Next.js 16 / React 18** • **Three.js (WebGL)** |
-| **📍 Operational Base** | **India** |
-
----
-
-### 🏆 Elite Research & Production Laboratories
+## 🏆 S-Rank Production Laboratories & Research
 
 <table>
   <!-- ROW 1 -->
@@ -61,7 +108,7 @@
       </div>
       <br/>
       <p align="justify">
-        <b>Autonomous Behavioral Anti-Ransomware Framework</b>: Neutralizes active encryption outbreaks in <b>&lt;1.5 seconds</b>. Employs real-time Shannon mathematical entropy tracking combined with a <b>QIBF + LSTM cascade voting engine</b>. Surgically isolates target subfolders to POSIX <code>0o444</code> read-only mode and triggers granular <b>AES-256 cloud key rotation</b>—keeping the remaining 95% of server infrastructure completely operational with zero downtime.
+        <b>Autonomous Behavioral Anti-Ransomware Framework</b>: Intercepts active encryption attacks in <b>&lt;1.5 seconds</b> using Shannon entropy telemetry and a <b>QIBF + LSTM cascade voting engine</b>. Surgically isolates target directories into POSIX <code>0o444</code> read-only mode and triggers granular <b>AES-256 cloud key rotation</b> with zero server-wide downtime.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -78,7 +125,7 @@
       </div>
       <br/>
       <p align="justify">
-        <b>Production-Grade Fintech &amp; UPI 2.0 with Autonomous Financial Guardrails</b>: Complete mobile-first banking architecture with 30+ Flutter screens and a FastAPI backend. Features <b>Event Collect</b> (non-custodial direct-to-bank group fundraising with verifiable <b>ECDSA SHA-256 cryptographic proofs</b>), <b>RBI Account Aggregator</b> multi-bank consent syncing, and <b>PayGo AI (Llama-3 70B)</b> with deterministic budget guardrails (<code>SAFE</code>, <code>WARNING</code>, <code>BLOCKED</code>).
+        <b>Fintech &amp; UPI 2.0 Ecosystem with Autonomous Financial AI Guardrails</b>: Complete mobile banking architecture with 30+ Flutter screens and FastAPI backend. Features <b>Event Collect</b> (non-custodial direct-to-bank group fundraising with verifiable <b>ECDSA SHA-256 proofs</b>), <b>RBI Account Aggregator</b> multi-bank consent syncing, and <b>PayGo AI (Llama-3 70B)</b> with deterministic spending guardrails.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Flutter_3.11-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -99,7 +146,7 @@
       </div>
       <br/>
       <p align="justify">
-        <b>Post-Quantum Cryptographic Real-Time Voice Platform</b>: Defeats "Harvest Now, Decrypt Later" adversaries and AI vocal biometric profiling. Integrates NIST standardized <b>ML-KEM (CRYSTALS-Kyber-1024)</b> lattice key encapsulation for peer-to-peer WebRTC calls, coupled with a real-time <b>FFT band-shift acoustic obfuscation DSP engine</b> degrading speaker recognition models by &gt;92% while preserving natural conversational intelligibility.
+        <b>Post-Quantum Cryptographic Real-Time Voice Platform</b>: Neutralizes quantum adversaries and AI vocal biometric profiling. Integrates NIST standardized <b>ML-KEM (CRYSTALS-Kyber-1024)</b> lattice key encapsulation for peer-to-peer WebRTC calls, coupled with a real-time <b>FFT band-shift acoustic obfuscation DSP engine</b> degrading speaker recognition models by &gt;92%.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/CRYSTALS--Kyber-7C3AED?style=flat-square" />
@@ -116,7 +163,7 @@
       </div>
       <br/>
       <p align="justify">
-        <b>AI-Assisted Environmental Intelligence &amp; Multi-Temporal Satellite Analysis</b>: Connects Copernicus Sentinel-2 L2A satellite observations with traceable, reviewable environmental investigations. Employs multi-spectral NDVI geospatial verification and a strict <b>ProofLoop framework</b> powered by <b>Gemini 3.8 Flash</b> that evaluates supporting vs contradictory evidence to eliminate AI hallucinations. Deployed on Google Cloud Run.
+        <b>AI-Assisted Environmental Intelligence &amp; Satellite Change Analysis</b>: Connects Copernicus Sentinel-2 L2A satellite observations with traceable, reviewable environmental investigations. Employs multi-spectral NDVI geospatial verification and a strict <b>ProofLoop framework</b> powered by <b>Gemini 3.8 Flash</b> on Google Cloud Run.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
@@ -137,7 +184,7 @@
       </div>
       <br/>
       <p align="justify">
-        <b>Autonomous Threat Intelligence &amp; Cyber Forensics Platform</b>: Performs deep OSINT correlation across compromised credential dumps, social footprints, and network threat feeds. Renders interactive <b>React Flow node-link relationship graphs</b>, builds chronological security incident timelines, and compiles SHA-256 timestamped forensic dossiers for legal and enterprise incident response.
+        <b>Autonomous Threat Intelligence &amp; Cyber Forensics Platform</b>: Performs automated OSINT reconnaissance across suspect identifiers, dark-web breach caches, and social footprints. Renders interactive <b>React Flow node-link relationship graphs</b>, builds chronological incident timelines, and compiles SHA-256 timestamped forensic dossiers.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -154,7 +201,7 @@
       </div>
       <br/>
       <p align="justify">
-        <b>100% Offline-First Interactive 3D STEM Education Engine</b>: Brings visual, intelligent education to zero-internet schools and budget hardware. Executes quantized <b>Llama/Qwen GGUF models directly on-device</b> via <code>llama.cpp</code>, triggering embedded <b>Three.js stereoscopic Red-Cyan 3D WebGL scenes</b> and reactive vector character state-machines via Rive.
+        <b>100% Offline-First Interactive 3D STEM Education Engine</b>: Brings visual, intelligent education to zero-internet environments. Executes quantized <b>Llama/Qwen GGUF models directly on-device</b> via <code>llama.cpp</code>, triggering embedded <b>Three.js stereoscopic Red-Cyan 3D WebGL scenes</b> and reactive vector character state-machines via Rive.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Flutter_3.11-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -168,16 +215,16 @@
 
 ---
 
-### 🛠️ Deep Technical Stack & Cryptographic Architecture
+## ⚡ Technical Arsenal & Cryptographic Capabilities
 
 <div align="center">
 
-#### 💻 Primary Programming Languages
+### 💻 Mastered Programming Paradigms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,c,java,dart,ts,js,html,css&perline=9" alt="Languages" />
 </p>
 
-#### 🧠 Autonomous AI, Agents & Model Context Protocol (MCP)
+### 🧠 Autonomous AI, Agents & Model Context Protocol (MCP)
 <p align="center">
   <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_3.8_Flash-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
@@ -187,7 +234,7 @@
   <img src="https://img.shields.io/badge/LSTM_Anomaly_Detectors-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-#### 🔐 Advanced Cryptographic Primitives & Cyber Defense
+### 🔐 Advanced Cryptographic Primitives & Cyber Defense
 <p align="center">
   <img src="https://img.shields.io/badge/NIST_ML--KEM_(CRYSTALS--Kyber)--1024-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NTRU_Lattice_Polynomials-00F0FF?style=for-the-badge&logoColor=black" />
@@ -197,7 +244,7 @@
   <img src="https://img.shields.io/badge/ECDSA_SHA--256_Audit_Proofs-0284C7?style=for-the-badge" />
 </p>
 
-#### 🌐 Web, Cloud & Developer Infrastructure
+### 🌐 Web, Cloud & Developer Infrastructure
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,fastapi,flask,tailwind,threejs,gcp,supabase,docker,git,postman,vscode&perline=7" alt="Frameworks and Infrastructure" />
 </p>
@@ -206,12 +253,22 @@
 
 ---
 
-### 💬 Connect & Initiate Transmission
+<div align="center">
+
+## 🐍 Repository Contribution Matrix
+
+<img src="https://raw.githubusercontent.com/AP952005/AP952005/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" width="100%" />
+
+</div>
+
+---
+
+## 💬 Initiate Transmission & Collaborate
 
 <div align="center">
 
 <p>
-  <i>I'm actively engaged in research and engineering across <b>Post-Quantum Cryptography</b>, <b>Autonomous AI Systems &amp; MCP</b>, and <b>Enterprise Cyber Threat Mitigation</b>. Let's build what's next.</i>
+  <i>Actively building next-generation systems across <b>Post-Quantum Cryptography</b>, <b>Autonomous AI &amp; Model Context Protocol (MCP)</b>, and <b>Enterprise Cyber Threat Mitigation</b>.</i>
 </p>
 
 <br/>
