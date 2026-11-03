@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- ========================================== -->
-<!-- 🚀 FUTURISTIC CUSTOM ANIMATED HERO SVG     -->
-<!-- ========================================== -->
+<!-- TOP DYNAMIC HEADER WAVE WITH TYPING ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24,31&height=180&section=header&text=ABISHEK%20PALANI%20S.&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=AI%20%7C%20Post-Quantum%20Cryptography%20%7C%20Cyber%20Defense%20Engineer&descFontSize=16&descAlignY=60&descAlign=50" width="100%" />
+
+<br/>
+
+<!-- DYNAMIC TYPING SVG -->
 <a href="https://github.com/AP952005">
-  <img src="./assets/hero_banner.svg" alt="Abishek Palani Sivashanmugam - Cyber Protocol Hero" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=50&lines=Associate+Engineer+%40+Unisys;Engineering+Quantum-Resilient+Systems+%26+Autonomous+AI;PQC+Research+%7C+Anti-Ransomware+%7C+Full-Stack+Architect" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- TOP FLOATING INTERACTIVE CONNECT PILLS -->
+<!-- INTERACTIVE STATUS BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ap9505" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,203 +24,112 @@
     <img src="https://img.shields.io/badge/Production%20Repos-15+-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   </a>
   <a href="https://github.com/AP952005">
-    <img src="https://komarev.com/ghpvc/?username=AP952005&label=PROFILE+RADAR+HITS&color=00f0ff&style=for-the-badge" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=AP952005&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="Visitors" />
   </a>
 </p>
-
-<!-- DYNAMIC TELEMETRY TERMINAL SVG -->
-<img src="./assets/terminal_radar.svg" alt="Live Telemetry Console" width="100%" />
 
 </div>
 
 ---
 
-<div align="center">
-  <h2>🏆 SIGNATURE RESEARCH &amp; PRODUCTION LABORATORIES</h2>
-  <p><i>Direct implementations addressing quantum security threats, autonomous cyber containment, and financial AI intelligence</i></p>
-</div>
+### ⚡ Professional Summary
 
-<table align="center" width="100%">
+| Dimension | Details |
+| :--- | :--- |
+| **🏢 Current Role** | **Associate Engineer @ Unisys** |
+| **🎯 Primary Domains** | Post-Quantum Cryptography (PQC), Behavioral Anti-Ransomware, Autonomous AI |
+| **🧠 Cognitive AI Stack** | Gemini 3.8 Flash, Llama-3 70B (Groq), On-Device Quantized GGUF (llama.cpp) |
+| **🔐 Cryptographic Focus** | NIST ML-KEM (CRYSTALS-Kyber), NTRU Lattice, Searchable Encryption (ABSE), ECDSA |
+| **💻 Full-Stack & Systems** | Python, C#, C, Java, Flutter / Dart, Next.js, React, FastAPI, WebGL (Three.js) |
+| **📍 Location** | India |
+
+---
+
+### 🏆 Featured Production Projects
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>🛡️ Quantum-Defender (QD)</h3>
-        <a href="https://github.com/AP952005/Quantum-Defender">
-          <img src="https://img.shields.io/badge/Repository-Quantum--Defender-critical?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <br/>
-      <p align="justify">
-        <b>Autonomous Behavioral Anti-Ransomware Framework</b>: Prevents full-server blackouts and storage thrashing by monitoring sub-millisecond Shannon mathematical entropy surges. Utilizes a QIBF + LSTM cascade voting engine to surgically isolate infected subfolders in &lt;1.5s, enforcing immediate read-only locks (<code>0o444</code>) and rotating micro-segmented AES-256 keys in isolated cloud storage.
-      </p>
-      <ul>
-        <li><b>Blast Radius</b>: Strictly contained to &lt;1 directory</li>
-        <li><b>Detection Latency</b>: Sub-second anomaly interception</li>
-        <li><b>Enterprise Portal</b>: Live Flask real-time file tree visualizer</li>
-      </ul>
-      <p align="center">
-        <code>Python 3.13</code> • <code>LSTM Neural Nets</code> • <code>AES-256-CBC</code> • <code>Shannon Entropy</code>
-      </p>
+      <h4>🛡️ <a href="https://github.com/AP952005/Quantum-Defender">Quantum-Defender (QD)</a></h4>
+      <p><b>Autonomous Behavioral Anti-Ransomware Framework</b></p>
+      <p>Mitigates active ransomware attacks in &lt;1.5 seconds using Shannon entropy tracking and QIBF + LSTM cascade voting. Enforces surgical subfolder isolation with micro-segmented AES-256 cloud key rotation without taking down the entire server.</p>
+      <p><code>Python</code> • <code>LSTM</code> • <code>AES-256-CBC</code> • <code>Entropy Analysis</code></p>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>💳 PayGo Ecosystem</h3>
-        <a href="https://github.com/AP952005/PayGo">
-          <img src="https://img.shields.io/badge/Repository-PayGo-0077B6?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <br/>
-      <p align="justify">
-        <b>Next-Gen Fintech &amp; UPI 2.0 Ecosystem with Autonomous Financial AI</b>: Bridges seamless peer-to-peer and merchant payments with RBI-compliant Account Aggregator consent hubs. Features <b>Event Collect</b> (non-custodial direct-to-bank group fundraising with verifiable <b>ECDSA SHA-256 cryptographic proofs</b>) and <b>PayGo AI</b> (Llama-3 70B financial co-pilot equipped with deterministic spending guardrails).
-      </p>
-      <ul>
-        <li><b>Non-Custodial Architecture</b>: Funds settle straight to bank VPAs</li>
-        <li><b>AI Guardrails</b>: <code>SAFE</code>, <code>WARNING</code>, and <code>BLOCKED</code> cashflow checks</li>
-        <li><b>Interactive Demo</b>: Bundled 60FPS standalone HTML walkthrough</li>
-      </ul>
-      <p align="center">
-        <code>Flutter 3.11</code> • <code>FastAPI</code> • <code>Llama-3 70B (Groq)</code> • <code>ECDSA Proofs</code>
-      </p>
+      <h4>💳 <a href="https://github.com/AP952005/PayGo">PayGo Ecosystem</a></h4>
+      <p><b>Next-Gen Fintech &amp; UPI 2.0 with Financial AI Guardrails</b></p>
+      <p>Cross-platform UPI platform integrated with RBI Account Aggregator framework. Includes direct-to-bank group fundraising with verifiable ECDSA SHA-256 settlement proofs and Llama-3 70B deterministic spending guardrails.</p>
+      <p><code>Flutter</code> • <code>FastAPI</code> • <code>Llama-3 70B</code> • <code>ECDSA Proofs</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>🎙️ PQMeet</h3>
-        <a href="https://github.com/AP952005/PQMeet">
-          <img src="https://img.shields.io/badge/Repository-PQMeet-7928CA?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <br/>
-      <p align="justify">
-        <b>Post-Quantum Cryptographic Real-Time Voice Platform</b>: Neutralizes "Harvest Now, Decrypt Later" quantum adversaries and AI acoustic profiling. Implements NIST standardized <b>ML-KEM (CRYSTALS-Kyber)</b> lattice-based key encapsulation for peer-to-peer WebRTC calls, coupled with real-time <b>FFT band-shift acoustic obfuscation</b> to strip vocal biometric fingerprints.
-      </p>
-      <ul>
-        <li><b>PQC Handshake Time</b>: ~18ms – 45ms over WebRTC</li>
-        <li><b>Biometric Defense</b>: &gt;92% ASR speaker recognition degradation</li>
-        <li><b>Tactical Console</b>: Real-time cryptographic telemetry graphs</li>
-      </ul>
-      <p align="center">
-        <code>CRYSTALS-Kyber</code> • <code>WebRTC</code> • <code>React 18 / TypeScript</code> • <code>Web Audio DSP</code>
-      </p>
+      <h4>🎙️ <a href="https://github.com/AP952005/PQMeet">PQMeet</a></h4>
+      <p><b>Post-Quantum Cryptographic Real-Time Voice Platform</b></p>
+      <p>Quantum-safe WebRTC audio communication implementing NIST ML-KEM (CRYSTALS-Kyber) lattice key encapsulation combined with live FFT acoustic band-shift masking to defeat AI speaker-profiling models.</p>
+      <p><code>CRYSTALS-Kyber</code> • <code>WebRTC</code> • <code>React</code> • <code>Acoustic DSP</code></p>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>🌍 EcoSentinel ProofLoop</h3>
-        <a href="https://github.com/AP952005/EcoSentinel">
-          <img src="https://img.shields.io/badge/Repository-EcoSentinel-47745C?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <br/>
-      <p align="justify">
-        <b>Environmental Intelligence &amp; Satellite Change Analysis Platform</b>: Transforms raw Sentinel-2 L2A multi-spectral satellite imagery into verifiable investigations. Employs multi-temporal geospatial NDVI index analysis and a strict <b>ProofLoop framework</b> that balances supporting vs contradicting environmental evidence with <b>Gemini 3.8 Flash</b>.
-      </p>
-      <ul>
-        <li><b>Cloud Architecture</b>: Containerized and deployed on Google Cloud Run</li>
-        <li><b>Earth Observation</b>: Automated Copernicus Data Space pipelines</li>
-        <li><b>AI Grounding</b>: Zero hallucination policy via dual-hypothesis review</li>
-      </ul>
-      <p align="center">
-        <code>Google Cloud Run</code> • <code>Gemini 3.8 Flash</code> • <code>Sentinel-2 L2A</code> • <code>Next.js 16</code>
-      </p>
+      <h4>🌍 <a href="https://github.com/AP952005/EcoSentinel">EcoSentinel ProofLoop</a></h4>
+      <p><b>AI-Assisted Environmental Intelligence Platform</b></p>
+      <p>Transforms raw Sentinel-2 satellite imagery into traceable environmental change analysis. Features multi-temporal geospatial NDVI verification and Gemini 3.8 Flash evidence evaluation on Google Cloud Run.</p>
+      <p><code>Google Cloud Run</code> • <code>Gemini 3.8</code> • <code>Sentinel-2</code> • <code>Next.js</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>🕵️ TraceLens OSINT Forensics</h3>
-        <a href="https://github.com/AP952005/TraceLens-OSINT-Cyber-Forensics">
-          <img src="https://img.shields.io/badge/Repository-TraceLens-FF0055?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <br/>
-      <p align="justify">
-        <b>Autonomous Digital Forensics &amp; Threat Intelligence Platform</b>: Conducts real-time OSINT reconnaissance across suspect identifiers, dark-web breach caches, and social footprints. Renders interactive React Flow node-link evidence graphs, builds chronological incident timelines, and compiles SHA-256 timestamped forensic dossiers.
-      </p>
-      <ul>
-        <li><b>Generative UI</b>: Tambo schema-first autonomous investigation UI</li>
-        <li><b>Reconnaissance</b>: Automated footprint scrapers &amp; cross-domain correlation</li>
-        <li><b>Export</b>: Cryptographically verifiable investigative PDF dossiers</li>
-      </ul>
-      <p align="center">
-        <code>Next.js 14</code> • <code>React Flow</code> • <code>TypeScript</code> • <code>Generative UI</code>
-      </p>
+      <h4>🕵️ <a href="https://github.com/AP952005/TraceLens-OSINT-Cyber-Forensics">TraceLens OSINT Forensics</a></h4>
+      <p><b>Autonomous Digital Forensics &amp; Threat Intelligence</b></p>
+      <p>Conducts automated OSINT reconnaissance across suspect footprints and breach caches, generating interactive React Flow evidence graphs and cryptographically timestamped investigation reports.</p>
+      <p><code>Next.js 14</code> • <code>React Flow</code> • <code>OSINT</code> • <code>Cyber Forensics</code></p>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>🦊 Kalvin AI</h3>
-        <a href="https://github.com/AP952005/Kalvin">
-          <img src="https://img.shields.io/badge/Repository-Kalvin-FF9900?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <br/>
-      <p align="justify">
-        <b>Offline-First Interactive 3D AI Science Tutor for Kids</b>: Democratizes high-tier visual STEM education for zero-internet environments. Runs quantized Llama/Qwen GGUF models directly on low-cost devices via <code>llama.cpp</code>, triggering embedded Three.js Red-Cyan stereoscopic 3D scientific scenes and reactive Rive state-machine character animations.
-      </p>
-      <ul>
-        <li><b>Zero Cloud Cost</b>: 100% on-device local neural inference</li>
-        <li><b>Visual Engine</b>: Stereoscopic WebGL 3D anaglyph simulations</li>
-        <li><b>Voice Pipeline</b>: On-device offline Speech-to-Text and TTS</li>
-      </ul>
-      <p align="center">
-        <code>Flutter 3.11</code> • <code>llama.cpp (GGUF)</code> • <code>Three.js (WebGL)</code> • <code>Rive Vector</code>
-      </p>
+      <h4>🦊 <a href="https://github.com/AP952005/Kalvin">Kalvin AI</a></h4>
+      <p><b>Offline-First Interactive 3D AI Science Tutor</b></p>
+      <p>On-device STEM education for low-resource environments running quantized Llama/Qwen GGUF models with embedded Three.js stereoscopic 3D scientific simulations and reactive Rive vector avatars.</p>
+      <p><code>Flutter</code> • <code>llama.cpp GGUF</code> • <code>Three.js 3D</code> • <code>Rive</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-<div align="center">
-  <h2>⚡ TECHNOLOGICAL ARSENAL &amp; CRYPTOGRAPHIC CAPABILITIES</h2>
-</div>
+### 🛠️ Core Technologies & Tools
 
 <div align="center">
 
-### 💻 Mastered Programming Paradigms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,c,java,dart,ts,js,html,css&perline=9" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cs,c,java,dart,ts,js,html,css&perline=9" alt="Programming Languages" />
 </p>
 
-### 🧠 Modern AI, LLMs &amp; Edge Inference
 <p align="center">
-  <img src="https://img.shields.io/badge/Gemini_3.8_Flash-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama--3_70B-F05A28?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq_Ultra--Fast_Inference-F55036?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/llama.cpp_GGUF-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/LSTM_Anomaly_Detectors-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB_Vector_Store-E0234E?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,fastapi,flask,tailwind,threejs,gcp,supabase,docker,git,postman,vscode&perline=7" alt="Frameworks & Tools" />
 </p>
 
-### 🔐 Cryptographic Primitives &amp; Cyber Defense
 <p align="center">
-  <img src="https://img.shields.io/badge/CRYSTALS--Kyber_(ML--KEM)--1024-7928CA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NTRU_Lattice_Polynomials-00F0FF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/AES--256--CBC_Key_Rotation-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Searchable_Encryption_(SSE%2FABSE)-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mathematical_Shannon_Entropy-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ECDSA_SHA--256_Audit_Trails-1E88E5?style=for-the-badge" />
-</p>
-
-### 🌐 Full-Stack, Cloud Infrastructure &amp; Tooling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,fastapi,flask,tailwind,threejs,gcp,supabase,docker,git,postman,vscode&perline=7" alt="Frameworks and Tools" />
+  <img src="https://img.shields.io/badge/Gemini_3.8_Flash-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama--3_70B-F05A28?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRYSTALS--Kyber-7928CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/AES--256--CBC-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/NTRU_Lattice-00F0FF?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq_Inference-F55036?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
+### 📊 GitHub Activity & Statistics
+
 <div align="center">
-  <h2>📊 REAL-TIME GITHUB TELEMETRY &amp; ACTIVITY</h2>
 
 <table border="0" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AP952005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9" alt="Abishek's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AP952005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AP952005&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="Abishek's Streak Stats" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AP952005&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -230,34 +142,24 @@
 
 ---
 
-<div align="center">
-  <h2>🐍 AUTONOMOUS REPOSITORY ACTIVITY SNAKE</h2>
-  <img src="https://raw.githubusercontent.com/AP952005/AP952005/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" width="100%" />
-</div>
-
----
+### 💬 Connect & Collaborate
 
 <div align="center">
-  <h2>💬 INITIATE TRANSMISSION &amp; COLLABORATE</h2>
-  <p><i>Open to cutting-edge research and architectural roles in Post-Quantum Cryptography, Cyber Threat Defense, and Generative AI Systems</i></p>
 
-  <br/>
+<a href="https://www.linkedin.com/in/ap9505" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:abishekpalanisivashanmugam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Direct%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/AP952005">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <a href="https://www.linkedin.com/in/ap9505" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20%40ap9505-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abishekpalanisivashanmugam@gmail.com">
-    <img src="https://img.shields.io/badge/Direct%20Dispatch-abishekpalani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AP952005">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20%40AP952005-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<br/><br/>
 
-  <br/><br/>
-  
-  <p align="center">
-    <code>[AP-9505 PROTOCOL DISPATCH TERMINATED &bull; ZERO-DOWNTIME THREAT CONTAINMENT ENGAGED]</code>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24,31&height=90&section=footer" width="100%" />
+
 </div>
