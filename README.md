@@ -4,7 +4,7 @@
 <!-- 🎬 1. HERO BANNER WITH EMBEDDED CYBER MASCOT            -->
 <!-- ======================================================== -->
 <a href="https://github.com/AP952005">
-  <img src="https://raw.githubusercontent.com/AP952005/AP952005/main/assets/hero.svg?v=2" alt="Abishek Palani Sivashanmugam - Developer Profile" width="100%" />
+  <img src="./assets/hero.svg?v=3" alt="Abishek Palani Sivashanmugam - Developer Profile" width="100%" />
 </a>
 
 <br/><br/>
@@ -12,7 +12,7 @@
 <!-- ======================================================== -->
 <!-- 🪪 2. DEVELOPER DOSSIER & SYSTEM MATRIX                 -->
 <!-- ======================================================== -->
-<img src="https://raw.githubusercontent.com/AP952005/AP952005/main/assets/ninja_id.svg?v=2" alt="Developer & Systems Dossier" width="100%" />
+<img src="./assets/ninja_id.svg?v=3" alt="Developer & Systems Dossier" width="100%" />
 
 <br/><br/>
 
@@ -26,16 +26,7 @@
 <br/><br/>
 
 <!-- ======================================================== -->
-<!-- 🏆 4. TOKYO-NIGHT GITHUB PROFILE TROPHIES                -->
-<!-- ======================================================== -->
-<a href="https://github.com/AP952005">
-  <img src="https://github-profile-trophy.vercel.app/?username=AP952005&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" width="100%" />
-</a>
-
-<br/><br/>
-
-<!-- ======================================================== -->
-<!-- 🔗 5. FLOATING INTERACTIVE CONNECT PILLS                 -->
+<!-- 🔗 4. FLOATING INTERACTIVE CONNECT PILLS                 -->
 <!-- ======================================================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ap9505" target="_blank">
