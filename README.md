@@ -4,15 +4,15 @@
 <!-- 🎬 1. HERO BANNER WITH EMBEDDED CYBER MASCOT            -->
 <!-- ======================================================== -->
 <a href="https://github.com/AP952005">
-  <img src="./assets/hero.svg" alt="Abishek Palani Sivashanmugam - Cyber Protocol Hero" width="100%" />
+  <img src="https://raw.githubusercontent.com/AP952005/AP952005/main/assets/hero.svg?v=2" alt="Abishek Palani Sivashanmugam - Developer Profile" width="100%" />
 </a>
 
 <br/><br/>
 
 <!-- ======================================================== -->
-<!-- 🪪 2. CYBER AGENT IDENTITY & REGISTRATION CARD          -->
+<!-- 🪪 2. DEVELOPER DOSSIER & SYSTEM MATRIX                 -->
 <!-- ======================================================== -->
-<img src="./assets/ninja_id.svg" alt="Agent Registration Matrix" width="100%" />
+<img src="https://raw.githubusercontent.com/AP952005/AP952005/main/assets/ninja_id.svg?v=2" alt="Developer & Systems Dossier" width="100%" />
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 <!-- ⚡ 3. RUNNING TERMINAL PROTOCOL TYPING STREAM            -->
 <!-- ======================================================== -->
 <a href="https://github.com/AP952005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2700&pause=1100&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=38&lines=%F0%9F%A4%96+Architecting+Autonomous+AI+Agents+%26+MCP+Pipelines;%F0%9F%94%90+NIST+Post-Quantum+Cryptography+(ML-KEM+%2F+Kyber-1024);%F0%9F%9B%A1%EF%B8%8F+Autonomous+Behavioral+Anti-Ransomware+Frameworks;%F0%9F%8F%9B%EF%B8%8F+Associate+Systems+Engineer+%40+Unisys+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2700&pause=1100&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=38&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents+%26+MCP+Pipelines;%F0%9F%94%90+Post-Quantum+Cryptography+Research+(ML-KEM+%2F+Kyber);%F0%9F%9B%A1%EF%B8%8F+Behavioral+Anti-Ransomware+Frameworks;%F0%9F%8F%9B%EF%B8%8F+Associate+Engineer+%40+Unisys+India" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -59,7 +59,7 @@
 
 ---
 
-## 🏆 S-Rank Production Laboratories & Research
+## 🏆 Featured Production Projects & Research
 
 <table>
   <!-- ROW 1 -->
@@ -72,7 +72,7 @@
       </div>
       <br/>
       <p align="justify">
-        <b>Autonomous Behavioral Anti-Ransomware Framework</b>: Intercepts active encryption attacks in <b>&lt;1.5 seconds</b> using Shannon entropy telemetry and a <b>QIBF + LSTM cascade voting engine</b>. Surgically isolates target directories into POSIX <code>0o444</code> read-only mode and triggers granular <b>AES-256 cloud key rotation</b> with zero server-wide downtime.
+        <b>Behavioral Anti-Ransomware Framework</b>: Intercepts active encryption attacks in <b>&lt;1.5 seconds</b> using Shannon entropy telemetry and a <b>QIBF + LSTM cascade voting engine</b>. Surgically isolates target directories into POSIX <code>0o444</code> read-only mode and triggers granular <b>AES-256 cloud key rotation</b> with zero server-wide downtime.
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -179,16 +179,16 @@
 
 ---
 
-## ⚡ Technical Arsenal & Cryptographic Capabilities
+## ⚡ Technical Arsenal & Capabilities
 
 <div align="center">
 
-### 💻 Mastered Programming Paradigms
+### 💻 Mastered Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,c,java,dart,ts,js,html,css&perline=9" alt="Languages" />
 </p>
 
-### 🧠 Autonomous AI, Agents & Model Context Protocol (MCP)
+### 🧠 AI Engineering & Model Context Protocol (MCP)
 <p align="center">
   <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_3.8_Flash-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
@@ -198,7 +198,7 @@
   <img src="https://img.shields.io/badge/LSTM_Anomaly_Detectors-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-### 🔐 Advanced Cryptographic Primitives & Cyber Defense
+### 🔐 Cryptography & Cyber Defense
 <p align="center">
   <img src="https://img.shields.io/badge/NIST_ML--KEM_(CRYSTALS--Kyber)--1024-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NTRU_Lattice_Polynomials-00F0FF?style=for-the-badge&logoColor=black" />
@@ -217,12 +217,12 @@
 
 ---
 
-## 💬 Initiate Transmission & Collaborate
+## 💬 Connect & Collaborate
 
 <div align="center">
 
 <p>
-  <i>Actively building next-generation systems across <b>Post-Quantum Cryptography</b>, <b>Autonomous AI &amp; Model Context Protocol (MCP)</b>, and <b>Enterprise Cyber Threat Mitigation</b>.</i>
+  <i>Always open to discussing <b>AI Agents &amp; MCP</b>, <b>Cyber Security &amp; Cryptography</b>, and <b>Software Engineering</b>.</i>
 </p>
 
 <br/>
