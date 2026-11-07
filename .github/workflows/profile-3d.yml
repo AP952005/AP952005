@@ -27,3 +27,4 @@ jobs:
           git add -A .
           git commit -m "Generated 3D Profile Contrib Chart" || exit 0
           git push
+
