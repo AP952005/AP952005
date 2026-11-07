@@ -1,23 +1,23 @@
 <div align="center">
 
 <!-- ======================================================== -->
-<!-- 🛸 1. FUTURISTIC CYBER HERO BANNER WITH YOUR AVATAR     -->
+<!-- 🎬 HERO BANNER WITH EMBEDDED CYBER MASCOT               -->
 <!-- ======================================================== -->
 <a href="https://github.com/AP952005">
-  <img src="./assets/cyber_hero.svg" alt="Abishek Palani Sivashanmugam - Cyber Protocol Hero" width="100%" />
+  <img src="https://raw.githubusercontent.com/AP952005/AP952005/main/assets/hero.svg" alt="Abishek Palani Sivashanmugam - Cyber Protocol Hero" width="100%" />
 </a>
 
 <br/><br/>
 
 <!-- ======================================================== -->
-<!-- 🪪 2. CYBER AGENT IDENTITY & REGISTRATION DOSSIER CARD   -->
+<!-- 🪪 REGISTRATION CARD WITH LEANING MASCOT                -->
 <!-- ======================================================== -->
-<img src="./assets/ninja_id.svg" alt="Agent Registration Matrix" width="100%" />
+<img src="https://raw.githubusercontent.com/AP952005/AP952005/main/assets/ninja_id.svg" alt="Agent Registration Matrix" width="100%" />
 
 <br/><br/>
 
 <!-- ======================================================== -->
-<!-- ⚡ 3. RUNNING TERMINAL PROTOCOL TYPING STREAM            -->
+<!-- ⚡ RUNNING TERMINAL PROTOCOL TYPING STREAM               -->
 <!-- ======================================================== -->
 <a href="https://github.com/AP952005">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2700&pause=1100&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=38&lines=%F0%9F%A4%96+Architecting+Autonomous+AI+Agents+%26+MCP+Pipelines;%F0%9F%94%90+NIST+Post-Quantum+Cryptography+(ML-KEM+%2F+Kyber-1024);%F0%9F%9B%A1%EF%B8%8F+Autonomous+Behavioral+Anti-Ransomware+Frameworks;%F0%9F%8F%9B%EF%B8%8F+Associate+Systems+Engineer+%40+Unisys+India" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 <br/><br/>
 
 <!-- ======================================================== -->
-<!-- 🏆 4. TOKYO-NIGHT GITHUB PROFILE TROPHIES                -->
+<!-- 🏆 TOKYO-NIGHT GITHUB PROFILE TROPHIES                   -->
 <!-- ======================================================== -->
 <a href="https://github.com/AP952005">
   <img src="https://github-profile-trophy.vercel.app/?username=AP952005&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" width="100%" />
@@ -35,7 +35,7 @@
 <br/><br/>
 
 <!-- ======================================================== -->
-<!-- 🔗 5. FLOATING INTERACTIVE CONNECT PILLS                 -->
+<!-- 🔗 FLOATING INTERACTIVE CONNECT PILLS                    -->
 <!-- ======================================================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ap9505" target="_blank">
@@ -212,16 +212,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,fastapi,flask,tailwind,threejs,gcp,supabase,docker,git,postman,vscode&perline=7" alt="Frameworks and Infrastructure" />
 </p>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Repository Contribution Matrix
-
-<img src="https://raw.githubusercontent.com/AP952005/AP952005/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" width="100%" />
 
 </div>
 
