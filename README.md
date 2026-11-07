@@ -1,23 +1,42 @@
 <div align="center">
 
-<!-- HEADER WAVE WITH TYPING BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24,31&height=220&section=header&text=ABISHEK%20PALANI%20SIVASHANMUGAM&fontSize=34&fontAlignY=38&fontColor=ffffff&desc=%E2%9A%A1%20AI%20Systems%20%7C%20Post-Quantum%20Cryptography%20%7C%20Cyber%20Defense%20Engineer%20%E2%9A%A1&descFontSize=15&descAlignY=58&descAlign=50" width="100%" />
-
-<br/>
-
-<!-- CYBER MASCOT ANIMATION -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cyber Security AI Mascot" width="220" />
-
-<br/><br/>
-
-<!-- RUNNING TERMINAL TYPING BAR -->
+<!-- ======================================================== -->
+<!-- 🛸 1. FUTURISTIC CYBER HERO BANNER WITH YOUR AVATAR     -->
+<!-- ======================================================== -->
 <a href="https://github.com/AP952005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1100&color=00F0FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=%F0%9F%8F%9B%EF%B8%8F+Associate+Engineer+%40+Unisys;%F0%9F%A4%96+Architecting+Autonomous+AI+Agents+%26+MCP+Pipelines;%F0%9F%94%90+NIST+Post-Quantum+Cryptography+(ML-KEM+%2F+Kyber);%F0%9F%9B%A1%EF%B8%8F+Autonomous+Behavioral+Anti-Ransomware+Frameworks" alt="Typing SVG" />
+  <img src="./assets/cyber_hero.svg" alt="Abishek Palani Sivashanmugam - Cyber Protocol Hero" width="100%" />
 </a>
 
 <br/><br/>
 
-<!-- INTERACTIVE STATUS BADGES -->
+<!-- ======================================================== -->
+<!-- 🪪 2. CYBER AGENT IDENTITY & REGISTRATION DOSSIER CARD   -->
+<!-- ======================================================== -->
+<img src="./assets/ninja_id.svg" alt="Agent Registration Matrix" width="100%" />
+
+<br/><br/>
+
+<!-- ======================================================== -->
+<!-- ⚡ 3. RUNNING TERMINAL PROTOCOL TYPING STREAM            -->
+<!-- ======================================================== -->
+<a href="https://github.com/AP952005">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2700&pause=1100&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=38&lines=%F0%9F%A4%96+Architecting+Autonomous+AI+Agents+%26+MCP+Pipelines;%F0%9F%94%90+NIST+Post-Quantum+Cryptography+(ML-KEM+%2F+Kyber-1024);%F0%9F%9B%A1%EF%B8%8F+Autonomous+Behavioral+Anti-Ransomware+Frameworks;%F0%9F%8F%9B%EF%B8%8F+Associate+Systems+Engineer+%40+Unisys+India" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- ======================================================== -->
+<!-- 🏆 4. TOKYO-NIGHT GITHUB PROFILE TROPHIES                -->
+<!-- ======================================================== -->
+<a href="https://github.com/AP952005">
+  <img src="https://github-profile-trophy.vercel.app/?username=AP952005&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" width="100%" />
+</a>
+
+<br/><br/>
+
+<!-- ======================================================== -->
+<!-- 🔗 5. FLOATING INTERACTIVE CONNECT PILLS                 -->
+<!-- ======================================================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ap9505" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -36,29 +55,11 @@
   </a>
 </p>
 
-<!-- GITHUB TROPHIES -->
-<a href="https://github.com/AP952005">
-  <img src="https://github-profile-trophy.vercel.app/?username=AP952005&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" width="100%" />
-</a>
-
 </div>
 
 ---
 
-### ⚡ Executive Profile & System Matrix
-
-| Dimension | Architectural Focus & Technical Profile |
-| :--- | :--- |
-| **🏢 Professional Role** | **Associate Engineer @ Unisys** |
-| **🎯 Core Domains** | **Post-Quantum Cryptography (PQC)** • **Autonomous Threat Mitigation** • **Generative AI Systems** |
-| **🧠 AI & Agentic Stack** | **Model Context Protocol (MCP)** • **Gemini 3.8 Flash** • **Llama-3 70B** • **On-Device GGUF (llama.cpp)** |
-| **🔐 Cryptographic Primitives** | **NIST ML-KEM (CRYSTALS-Kyber)** • **NTRU Lattice** • **Attribute-Based Searchable Encryption (ABSE)** • **ECDSA** |
-| **💻 Engineering Frameworks** | **Python (FastAPI / Flask)** • **C# / .NET** • **Flutter (Dart)** • **Next.js 16 / React 18** • **Three.js (WebGL)** |
-| **📍 Operational Base** | **India** |
-
----
-
-### 🏆 S-Rank Production Laboratories & Research
+## 🏆 S-Rank Production Laboratories & Research
 
 <table>
   <!-- ROW 1 -->
@@ -178,16 +179,16 @@
 
 ---
 
-### ⚡ Technical Arsenal & Cryptographic Capabilities
+## ⚡ Technical Arsenal & Cryptographic Capabilities
 
 <div align="center">
 
-#### 💻 Mastered Programming Paradigms
+### 💻 Mastered Programming Paradigms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,c,java,dart,ts,js,html,css&perline=9" alt="Languages" />
 </p>
 
-#### 🧠 Autonomous AI, Agents & Model Context Protocol (MCP)
+### 🧠 Autonomous AI, Agents & Model Context Protocol (MCP)
 <p align="center">
   <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_3.8_Flash-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
@@ -197,7 +198,7 @@
   <img src="https://img.shields.io/badge/LSTM_Anomaly_Detectors-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-#### 🔐 Advanced Cryptographic Primitives & Cyber Defense
+### 🔐 Advanced Cryptographic Primitives & Cyber Defense
 <p align="center">
   <img src="https://img.shields.io/badge/NIST_ML--KEM_(CRYSTALS--Kyber)--1024-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NTRU_Lattice_Polynomials-00F0FF?style=for-the-badge&logoColor=black" />
@@ -207,7 +208,7 @@
   <img src="https://img.shields.io/badge/ECDSA_SHA--256_Audit_Proofs-0284C7?style=for-the-badge" />
 </p>
 
-#### 🌐 Web, Cloud & Developer Infrastructure
+### 🌐 Web, Cloud & Developer Infrastructure
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,fastapi,flask,tailwind,threejs,gcp,supabase,docker,git,postman,vscode&perline=7" alt="Frameworks and Infrastructure" />
 </p>
@@ -218,7 +219,7 @@
 
 <div align="center">
 
-### 🐍 Repository Contribution Matrix
+## 🐍 Repository Contribution Matrix
 
 <img src="https://raw.githubusercontent.com/AP952005/AP952005/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" width="100%" />
 
@@ -226,7 +227,7 @@
 
 ---
 
-### 💬 Initiate Transmission & Collaborate
+## 💬 Initiate Transmission & Collaborate
 
 <div align="center">
 
